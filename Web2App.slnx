@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Web2App.Core/Web2App.Core.csproj" />
+    <Project Path="src/Web2App/Web2App.csproj" />
+  </Folder>
+</Solution>
